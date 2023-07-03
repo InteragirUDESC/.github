@@ -25,7 +25,7 @@
   
   ### Nossos projetos
 
-> Você pode acompanhar o nosso trabalho no [Github da organização do Interagir](https://github.com/InteragirUDESC). Lá você pode encontrar os nossos repositórios, além do [quadro KANBAM](https://github.com/orgs/) usado para mostrar no que estamos trabalhando atualmente.
+> Você pode acompanhar o nosso trabalho no [Github da organização do Interagir](https://github.com/InteragirUDESC). Lá você pode encontrar os nossos repositórios, além do [quadro KANBAM](https://github.com/orgs/InteragirUDESC/projects/1) usado para mostrar no que estamos trabalhando atualmente.
   
 <sub > <strong>Siga o Interagir nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/InteragirUDESC)
@@ -33,9 +33,6 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/InteragirUdesc)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/programaInteragir)
 </sub>
-
-## 🤝 Como contribuir?
-> Viu alguma coisa errada ou quer propor uma melhoria para esse projeto? Pode criar uma issue explicando o seu caso ou então você pode criar um fork desse repositório, arrumar o que precisar no seu fork e criar um pull request explicando o que foi mudado e porque.
 
 > Não tenha medo! Se precisar de ajuda, pode nos procurar nas redes sociais e mandar uma mensagem por lá.
 
